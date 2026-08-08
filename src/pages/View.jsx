@@ -5,6 +5,7 @@ import { HiDocumentDownload } from "react-icons/hi";
 import Edit from '../components/Edit'
 import { IoDocumentText } from "react-icons/io5";
 import { IoMdRefresh } from "react-icons/io";
+import { FaBackward } from "react-icons/fa";
 
 function View() {
   return (
@@ -18,11 +19,11 @@ function View() {
           {/* edit */}
           <Edit/>
           {/* all resumes */}
-          <Link to={'/all-resumes'} style={{color:'#714a2f'}} className='btn  me-2'><IoDocumentText className='fs-3' />All resumes</Link>
+          <Link to={'/all-resumes'} style={{color:'#714a2f'}} className='btn  me-2'><IoDocumentText className='fs-3 pe-1' />All resumes</Link>
           {/* download history */}
-           <Link to={'/downloads'} style={{color:'#714a2f'}} className='btn  me-2'><IoDocumentText className='fs-3' />Download History</Link>
+           <Link to={'/downloads'} style={{color:'#714a2f'}} className='btn  me-2'><IoMdRefresh  className='fs-3 pe-1'/>Download History</Link>
           {/* go back option */}
-          <Link to={'/resume-details'} style={{color:'#714a2f'}} className='btn  me-2'><IoMdRefresh className='fs-3' />Home</Link>
+          <Link to={'/resume-details'} style={{color:'#714a2f'}} className='btn  me-2'><FaBackward className='fs-3 pe-2' />Home</Link>
         </div>
         {/* preview */}
         <div className="p-5">

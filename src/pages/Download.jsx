@@ -6,7 +6,7 @@ function Download() {
   return (
     <div className='container my-5'>
       <div className='d-flex justify-content-between align-items-center'>
-        <h2>Downloaded Resume Detaild </h2>
+        <h2>Downloaded Resume Details </h2>
         <Link to={'/resume-details'}><IoArrowBack />Back</Link>
       </div>
       <h6>Total Downloded resume from our site is <span>10</span></h6>

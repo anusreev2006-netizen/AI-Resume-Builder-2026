@@ -17,3 +17,10 @@ export const viewResumeAPI = async (resumeId)=>{
 export const getAllResumesAPI = async ()=>{
    return await axiosServiece("GET", `/resumes`,{})
 }
+
+//remove resume api :called by saved  component when delete button clicked
+
+export const deleteResumeAPI = async (resumeId)=>{
+   return await axiosServiece("DELETE", `/resumes/${resumeId}`,{})
+}
+

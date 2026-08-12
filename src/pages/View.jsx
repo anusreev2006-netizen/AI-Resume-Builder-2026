@@ -33,7 +33,7 @@ return (
           {/* download */}
           <button style={{color:'#714a2f'}} className='btn  me-2'><HiDocumentDownload  className='fs-1'/>Download CV</button>
           {/* edit */}
-          <Edit/>
+          <Edit resumeDetails={resume} setResumeDetails={setResume}/>
           {/* all resumes */}
           {/* <Link to={'/all-resumes'} style={{color:'#714a2f'}} className='btn  me-2'><IoDocumentText className='fs-3 pe-1' />All resumes</Link>
           {/* download history */}

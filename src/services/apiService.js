@@ -24,3 +24,20 @@ export const deleteResumeAPI = async (resumeId)=>{
    return await axiosServiece("DELETE", `/resumes/${resumeId}`,{})
 }
 
+//edit resume api :called by edit  component when update button clicked
+
+export const editeResumeAPI = async (resumeId,resumeDetails)=>{
+   return await axiosServiece("PUT", `/resumes/${resumeId}`,resumeDetails)
+}
+
+//add resume to dwnloads :called by view  component when download cv button clicked
+
+export const downloadResumeAPI = async (resumeDetails)=>{
+   return await axiosServiece("POST", '/downloads',resumeDetails)
+}
+
+//get all download list api :called by edit  component when update button clicked
+
+export const getAlldownloadAPI  = async ()=>{
+   return await axiosServiece("GET", "/downloads",{})
+}

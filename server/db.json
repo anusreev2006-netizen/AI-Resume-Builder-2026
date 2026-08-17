@@ -1,0 +1,259 @@
+{
+  "resumes": [
+    {
+      "fullName": "dgg",
+      "location": "jjj",
+      "job": "Graphic Designer",
+      "email": "anusreev2006@gmail.com",
+      "phone": "234567",
+      "linkedin": "fdsa",
+      "github": "ertyui",
+      "degree": "bca",
+      "college": "sdfghj",
+      "year": "2026",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Brand Identity Design",
+        "Layout Design",
+        "Color Theory",
+        "Creative Thinking",
+        "Visual Communication",
+        "Logo Design",
+        "Image Editing"
+      ],
+      "summary": "Creative graphic designer with expertise in visual communication, branding, and digital design. Skilled in using modern design tools to create compelling visual content.",
+      "id": "QILRZBwrUyQ"
+    },
+    {
+      "fullName": "Anusree",
+      "location": "kerala",
+      "job": "Full Stack Developer",
+      "email": "anusreev2006@gmail.com",
+      "phone": "234567889",
+      "linkedin": "linkedin.com",
+      "github": "github.com",
+      "degree": "BCA",
+      "college": "ihrd",
+      "year": "2026",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "Git",
+        "Deployment"
+      ],
+      "summary": "Full stack developer with hands-on experience in developing end-to-end web applications using both frontend and backend technologies. Adept at building scalable systems and delivering high-quality solutions.",
+      "id": "mFn2chviLr0"
+    },
+    {
+      "fullName": "Archana",
+      "location": "Kerala",
+      "job": "Business Analyst",
+      "email": "varchana123@gmail.com",
+      "phone": "456789900",
+      "linkedin": "arrcgyh.com",
+      "github": "dvgyarch.com",
+      "degree": "B.Com",
+      "college": "Calicut Univercity",
+      "year": "2023",
+      "skills": [
+        "Requirement Gathering",
+        "Business Process Analysis",
+        "Data Analysis",
+        "Stakeholder Communication",
+        "Documentation",
+        "Process Improvement",
+        "SQL",
+        "Agile Methodology",
+        "Problem Solving",
+        "Reporting"
+      ],
+      "summary": "Business analyst experienced in analyzing business processes, gathering requirements, and providing data-driven insights to support strategic decision-making.",
+      "id": "xULuSFPn4B8"
+    },
+    {
+      "fullName": "Arya",
+      "location": "kerala",
+      "job": "Frontend Developer",
+      "email": "arya@gmail.com",
+      "phone": "3443566578",
+      "linkedin": "linkedin.com",
+      "github": "github.com",
+      "degree": "MCA",
+      "college": "Calicut Univercity",
+      "year": "2023",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Responsive Design",
+        "Tailwind CSS",
+        "Bootstrap",
+        "DOM Manipulation",
+        "Cross Browser Compatibility",
+        "Git"
+      ],
+      "summary": "Creative frontend developer with expertise in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks. Passionate about creating engaging user experiences and optimizing web performance.",
+      "id": "HD8L1usfaKk"
+    },
+    {
+      "fullName": "Ardhra",
+      "location": "Kollam",
+      "job": "Data Analyst",
+      "email": "ardhra@gmail.com",
+      "phone": "565665657",
+      "linkedin": "linkedinar.com",
+      "github": "githubar.com",
+      "degree": "BCA",
+      "college": "Calicut Univercity",
+      "year": "2026",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "Pandas",
+        "NumPy"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, analyzing, and interpreting complex datasets to support business decisions. Experienced in data visualization and reporting tools.",
+      "id": "MzGI3Zm-K_o"
+    },
+    {
+      "fullName": "Anirudh",
+      "location": "kerala",
+      "job": "Data Analyst",
+      "email": "anirudh@gmail.com",
+      "phone": "8989989887",
+      "linkedin": "linkedinani.com",
+      "github": "githubani.com",
+      "degree": "BCA",
+      "college": "Calicut Univercity",
+      "year": "2026",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "Pandas",
+        "NumPy"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, analyzing, and interpreting complex datasets to support business decisions. Experienced in data visualization and reporting tools.",
+      "id": "PeFDM0Z4OmA"
+    },
+    {
+      "fullName": "Ilan A S",
+      "location": "Chennai",
+      "job": "Full Stack Developer",
+      "email": "ilan2025@gmail.com",
+      "phone": "2446689000",
+      "linkedin": "linkedinilan.com",
+      "github": "githubilan.com",
+      "degree": "Bsc CS",
+      "college": "Calicut Univercity",
+      "year": "2023",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "Git",
+        "Deployment"
+      ],
+      "summary": "Full stack developer with hands-on experience in developing end-to-end web applications using both frontend and backend technologies. Adept at building scalable systems and delivering high-quality solutions.",
+      "id": "pb1a4CKGfPA"
+    }
+  ],
+  "downloads": [
+    {
+      "timestamp": "8/14/2026,11:18:24 AM",
+      "resumeImg": "https://res.cloudinary.com/qp4k6y5h/image/upload/v1786686503/bnykkulegycatikm2s9u.png",
+      "resumeId": "xULuSFPn4B8",
+      "jpbRole": "Business Analyst",
+      "id": "01k_i-OpZFA"
+    },
+    {
+      "timestamp": "8/14/2026,11:18:25 AM",
+      "resumeImg": "https://res.cloudinary.com/qp4k6y5h/image/upload/v1786686503/xc0mn3hfnwbwavxz9cey.png",
+      "resumeId": "xULuSFPn4B8",
+      "jpbRole": "Business Analyst",
+      "id": "bK6AMYIQETU"
+    },
+    {
+      "timestamp": "8/14/2026,11:18:26 AM",
+      "resumeImg": "https://res.cloudinary.com/qp4k6y5h/image/upload/v1786686505/c3wnod3pc83n2ain3u8x.png",
+      "resumeId": "xULuSFPn4B8",
+      "jpbRole": "Business Analyst",
+      "id": "xdgpb4Mollw"
+    },
+    {
+      "timestamp": "8/14/2026,11:18:27 AM",
+      "resumeImg": "https://res.cloudinary.com/qp4k6y5h/image/upload/v1786686507/keln2ro0750dsmekgses.png",
+      "resumeId": "xULuSFPn4B8",
+      "jpbRole": "Business Analyst",
+      "id": "rjdApRclYdw"
+    },
+    {
+      "timestamp": "8/14/2026,11:18:30 AM",
+      "resumeImg": "https://res.cloudinary.com/qp4k6y5h/image/upload/v1786686511/iqnljlbxmxroj0vidkyk.png",
+      "resumeId": "xULuSFPn4B8",
+      "jpbRole": "Business Analyst",
+      "id": "3b6ffPLduog"
+    },
+    {
+      "timestamp": "8/14/2026,11:18:32 AM",
+      "resumeImg": "https://res.cloudinary.com/qp4k6y5h/image/upload/v1786686512/zbmkbyvx7v9v700swlpw.png",
+      "resumeId": "xULuSFPn4B8",
+      "jpbRole": "Business Analyst",
+      "id": "w2GCJWx2ch0"
+    },
+    {
+      "timestamp": "8/14/2026,11:52:13 AM",
+      "resumeImg": "https://res.cloudinary.com/qp4k6y5h/image/upload/v1786688534/rydtmwewc8pnp1e6xpsd.png",
+      "resumeId": "mFn2chviLr0",
+      "jpbRole": "Full Stack Developer",
+      "id": "BZiSXwSNa2I"
+    },
+    {
+      "timestamp": "8/14/2026,1:14:21 PM",
+      "resumeImg": "https://res.cloudinary.com/qp4k6y5h/image/upload/v1786693460/jwhv6gz0x19fvt18pijh.png",
+      "resumeId": "QILRZBwrUyQ",
+      "jpbRole": "Graphic Designer",
+      "id": "lM9XDLo6UNA"
+    },
+    {
+      "timestamp": "8/14/2026,1:14:35 PM",
+      "resumeImg": "https://res.cloudinary.com/qp4k6y5h/image/upload/v1786693477/banphykr42ytwjw0illv.png",
+      "resumeId": "HD8L1usfaKk",
+      "jpbRole": "Frontend Developer",
+      "id": "CfMVzXAKZfM"
+    },
+    {
+      "timestamp": "8/14/2026,1:14:50 PM",
+      "resumeImg": "https://res.cloudinary.com/qp4k6y5h/image/upload/v1786693491/igk9paipgkt1upywr2xd.png",
+      "resumeId": "MzGI3Zm-K_o",
+      "jpbRole": "Data Analyst",
+      "id": "BZPGTVVnMGU"
+    }
+  ]
+ 
+}

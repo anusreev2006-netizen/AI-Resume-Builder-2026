@@ -181,6 +181,32 @@
       ],
       "summary": "Full stack developer with hands-on experience in developing end-to-end web applications using both frontend and backend technologies. Adept at building scalable systems and delivering high-quality solutions.",
       "id": "pb1a4CKGfPA"
+    },
+    {
+      "fullName": "Jo",
+      "location": "kerala",
+      "job": "Business Analyst",
+      "email": "anusreev2006@gmail.com",
+      "phone": "24466890",
+      "linkedin": "linkedin.com",
+      "github": "githubilan.com",
+      "degree": "BCA",
+      "college": "Calicut Univercity",
+      "year": "2023",
+      "skills": [
+        "Requirement Gathering",
+        "Business Process Analysis",
+        "Data Analysis",
+        "Stakeholder Communication",
+        "Documentation",
+        "Process Improvement",
+        "SQL",
+        "Agile Methodology",
+        "Problem Solving",
+        "Reporting"
+      ],
+      "summary": "Business analyst experienced in analyzing business processes, gathering requirements, and providing data-driven insights to support strategic decision-making.",
+      "id": "pK4kZZp"
     }
   ],
   "downloads": [
@@ -255,5 +281,4 @@
       "id": "BZPGTVVnMGU"
     }
   ]
- 
 }
